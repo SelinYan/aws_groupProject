@@ -16,7 +16,7 @@ body, .quote-input {
 }
 
 .container {
-  background-color: #F0DB4F;
+  background-color: #f89ae2;
   padding: 1rem;
   border-radius: .5rem;
   width: 700px;
@@ -26,8 +26,8 @@ body, .quote-input {
 .timer {
   position: absolute;
   top: 2rem;
-  font-size: 3rem;
-  color: #F0DB4F;
+  font-size: 30rem;
+  color: #f89ae2;
   font-weight: bold;
 }
 
