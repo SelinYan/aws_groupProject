@@ -169,7 +169,7 @@ body, .quote-input {
 
 .quote-input {
   background-color: transparent;
-  border: 2px solid #A1922E;
+  border: 2px solid #e4e72c;
   outline: none;
   width: 100%;
   height: 8rem;
@@ -185,7 +185,7 @@ body, .quote-input {
 }
 
 .correct {
-  color: green;
+  color: rgb(90, 243, 90);
 }
 
 .incorrect {

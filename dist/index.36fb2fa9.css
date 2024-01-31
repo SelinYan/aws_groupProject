@@ -186,7 +186,7 @@ body, .quote-input {
   height: 8rem;
   resize: none;
   background-color: #0000;
-  border: 2px solid #a1922e;
+  border: 2px solid #e4e72c;
   border-radius: .5rem;
   outline: none;
   margin: auto;
@@ -199,7 +199,7 @@ body, .quote-input {
 }
 
 .correct {
-  color: green;
+  color: #5af35a;
 }
 
 .incorrect {
