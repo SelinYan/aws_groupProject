@@ -8,7 +8,7 @@
     "start-watch": "nodemon server/server.js",
     "dev": "concurrently --kill-others \"npm run start-watch\" \"npm run build-watch\"",
     "start": "node server/server.js",
-    "build": "parcel ./client/index.html"
+    "build": "NODE_OPTIONS=--max-old-space-size=4096 parcel build ./client/index.html"
   },
   "repository": {
     "type": "git",
