@@ -2,9 +2,7 @@
 
 A simple typing game application built with HTML, CSS, and JavaScript.
 
-Live demo:
-
-https://typing-game-animation.netlify.app
+Live demo: https://typing-game-animation.netlify.app
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fc3a921a-939f-424d-a316-d7fa1434638f/deploy-status?branch=main)](https://app.netlify.com/sites/typing-game-animation/deploys)
 
