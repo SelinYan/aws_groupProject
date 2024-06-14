@@ -28,7 +28,7 @@ Live demo:
 
    ```sh
    git clone https://github.com/SelinYan/aws_groupProject.git
-   cd TypingGame
+   cd aws_groupProject
    ```
 
 2. Install dependencies:
@@ -68,11 +68,11 @@ Connect the pipeline to the GitHub repository to automatically deploy changes pu
 
 ## Technologies Used
 
-Backend: Express.js
-Frontend: HTML, CSS, JavaScript
-Bundler: Parcel
-Development Tools: Nodemon, Concurrently
-CI/CD: AWS Elastic Beanstalk, AWS CodePipeline
+- Backend: Express.js
+- Frontend: HTML, CSS, JavaScript
+- Bundler: Parcel
+- Development Tools: Nodemon, Concurrently
+- CI/CD: AWS Elastic Beanstalk, AWS CodePipeline
 
 ## Configuration
 
