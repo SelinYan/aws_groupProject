@@ -2,9 +2,10 @@
 
 ## Overview
 
-Typing Game is a simple speed typing game designed to help users improve their typing skills. The application uses Express.js for the backend and Parcel for bundling the frontend assets. Deployed using AWS CodePipeline and AWS BeanStalk.
+Typing Game is a simple speed typing game designed to help users improve their typing skills. The application uses Express.js for the backend and Parcel for bundling the frontend assets. Deployed using AWS CodePipeline and AWS Elastic Beanstalk.
 
 Live demo:
+http://typinggame-env.eba-6pn6uv82.eu-central-1.elasticbeanstalk.com/
 
 ## Table of Contents
 
